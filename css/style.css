@@ -370,7 +370,9 @@ em {
   padding-top: 10px;
   text-decoration: none;
 }
-
+.members a:hover {
+  text-decoration: underline;
+}
 footer {
   background-color: var(--dark-blue);
 }
