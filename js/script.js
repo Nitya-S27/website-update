@@ -40,7 +40,7 @@ function type() {
 
 function blinkingPointer() {
   setTimeout(() => {
-    document.getElementById("check").style.borderRightColor = `red`;
+    document.getElementById("check").style.borderRightColor = `transparent`;
   }, 500);
   setTimeout(() => {
     document.getElementById("check").style.borderRightColor = "transparent";

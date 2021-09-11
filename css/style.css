@@ -495,6 +495,7 @@ footer h5 {
     right: 20%;
   }
 }
+
 @media (max-width: 1070px) {
   .news-parent {
     position: absolute;
